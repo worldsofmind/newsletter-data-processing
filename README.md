@@ -53,4 +53,4 @@ openpyxl
 
 ## 📝 Author
 
-Generated with ❤️ using ChatGPT based on LAB data requirements.
+Generated with ❤️ from DD(OPDA)
